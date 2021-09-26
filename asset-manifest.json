@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://bjscoob.github.io/csb-vl0cf/static/js/main.ce67d1f1.chunk.js",
+    "main.js.map": "https://bjscoob.github.io/csb-vl0cf/static/js/main.ce67d1f1.chunk.js.map",
+    "runtime-main.js": "https://bjscoob.github.io/csb-vl0cf/static/js/runtime-main.1a3c6505.js",
+    "runtime-main.js.map": "https://bjscoob.github.io/csb-vl0cf/static/js/runtime-main.1a3c6505.js.map",
+    "static/js/2.b658c3b3.chunk.js": "https://bjscoob.github.io/csb-vl0cf/static/js/2.b658c3b3.chunk.js",
+    "static/js/2.b658c3b3.chunk.js.map": "https://bjscoob.github.io/csb-vl0cf/static/js/2.b658c3b3.chunk.js.map",
+    "index.html": "https://bjscoob.github.io/csb-vl0cf/index.html",
+    "static/js/2.b658c3b3.chunk.js.LICENSE.txt": "https://bjscoob.github.io/csb-vl0cf/static/js/2.b658c3b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a3c6505.js",
+    "static/js/2.b658c3b3.chunk.js",
+    "static/js/main.ce67d1f1.chunk.js"
+  ]
+}
